@@ -474,7 +474,7 @@ a:focus {
 }
 
 .about .skill-name p:last-child {
-    float: right;
+    float: left;
 }
 
 .about .progress {
@@ -1110,3 +1110,4 @@ a:focus {
 .footer a:hover {
     color: #222222;
 }
+
